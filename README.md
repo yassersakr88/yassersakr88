@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yasser Sakr</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
+- 🔭 I’m currently working on [Airbnb New User Bookings](https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data)
+
+- 👨‍💻 All of my projects are available at [https://github.com/yassersakr88](https://github.com/yassersakr88)
+
+- 📫 **yasser.mansour88@gmail.com**
+
+- ⚡ Fun fact **Football and FPL addict**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yasser_sakr88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasser_sakr88" height="30" width="40" /></a>
