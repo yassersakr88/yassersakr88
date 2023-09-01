@@ -7,7 +7,7 @@
 
 - 📫 **yasser.mansour88@gmail.com**
 
-- ⚡ Fun fact **Football and FPL addict**
+- ⚡ **Football and FPL addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
