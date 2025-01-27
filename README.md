@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasser Sakr</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+<h3 align="center">Aspiring Data Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [Airbnb New User Bookings](https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data)
+- 🔭 I’m currently working on [Data Engineering Zoomcamp - cohort 2025]([https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main))
 
 - 👨‍💻 All of my projects are available at [https://github.com/yassersakr88](https://github.com/yassersakr88)
 
